@@ -8,7 +8,7 @@ const HeadBar = styled(AppBar)`
     z-index: 1201;
     background: #fff;
     height:70px;
-    box-shadow: inset 0 -1 0 0 #dadce0;
+    box-shadow: inset 1px 1px 0 rgb(0 0 0 / 10%), inset 0 -1px 0 rgb(0 0 0 / 20%);
 
 `;
 
